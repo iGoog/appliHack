@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "cy:open": "cypress open",
-    "test": "cypress run",
+    "test": "cypress run --env failOnSnapshotDiff=false",
     "clean": "rimraf cypress/snapshots cypress/screenshots"
   },
   "keywords": [],
