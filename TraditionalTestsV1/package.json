@@ -8,11 +8,20 @@
     "cypress-image-snapshot": "^3.1.1",
     "rimraf": "^3.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress": "^4.7.0",
+    "@typescript-eslint/eslint-plugin": "^3.0.2",
+    "@typescript-eslint/parser": "^3.0.2",
+    "eslint": "^7.1.0",
+    "eslint-plugin-cypress": "^2.11.1",
+    "eslint-plugin-json-format": "^2.0.1",
+    "eslint-plugin-mocha": "^7.0.0"
+  },
   "scripts": {
     "cy:open": "cypress open",
     "test": "cypress run --env failOnSnapshotDiff=false",
-    "clean": "rimraf cypress/snapshots cypress/screenshots"
+    "clean": "rimraf cypress/snapshots cypress/screenshots",
+    "lint": "eslint cypress --fix"
   },
   "keywords": [],
   "author": "",

@@ -1,36 +1,36 @@
-const sizes = [
-	[1200, 700],
-	[768, 700],
-	['iphone-x', 'landscape'],
-];
+/// <reference types="cypress" />
+const views = require('../fixtures/chomeViews.json');
 
-describe('Visual regression tests', () => {
-	const browser = `${Cypress.browser.name}_v${Cypress.browser.majorVersion}`;
+const browser = `${Cypress.browser.name}_v${Cypress.browser.majorVersion}`;
 
-	sizes.forEach((size) => {
-		const sizeText = `${size[0]}_${size[1]}`
-		it(`Applifashion should match previous screenshot - ${sizeText} ${browser}`, () => {
-			cy.viewport(size[0], size[1]);
-			cy.visit('/gridHackathonV1.html');
-			cy.window()
-				.then((win) => {
-					cy.document().then((doc) => { // we need the doc fully loaded.
-						const viewHeight = win.innerHeight;
-						const scrollHeight = doc.scrollingElement.scrollHeight;
-						cy.matchImageSnapshot(
-							`cross-device-elements_${sizeText}_${browser}`
-						);
-						for (let offset = viewHeight; offset < scrollHeight; offset += viewHeight) {
-							cy.scrollTo(0, offset);
-							cy.matchImageSnapshot(
-								`cross-device-elements_${sizeText}_${browser}_offset_${offset}`
-							);
-						}
-					})
-
-
-				});
-
+describe( 'Should display specific elements at given resolutions', () => {
+	const url = '/gridHackathonV1.html';
+	// buildViews(url);
+	views.forEach((view) => {
+		const sizeText = `${view.size[0]},${view.size[1]}`;
+		it(`Shows elements in ${browser} at ${sizeText}`, () => {
+			cy.viewport(view.size[0], view.size[1]);
+			cy.visit(url);
+			view.showIds.forEach((showId) => {
+				cy.get('#'+CSS.escape(showId)).should('be.visible');
+				// expect(.to.be.visible;
+			})
 		});
+		it(`Hides elements in ${browser} at ${sizeText}`, () => {
+			cy.viewport(view.size[0], view.size[1]);
+			cy.visit(url);
+			view.hideIds.forEach((hideId) => {
+				cy.get('#'+CSS.escape(hideId)).should('be.hidden');
+			})
+		});
+
 	});
+
+
+
+
+
+
+
+
 });
