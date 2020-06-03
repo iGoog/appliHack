@@ -8,7 +8,7 @@ const views = [
 		showIds: [],
 		hideIds: [],
 		browser
-	}, {   size : ['iphone-x', 'landscape'],
+	}, {   size : [500,700], // these are different... ['iphone-x', 'landscape'],
 		showIds: [],
 		hideIds: [],
 		browser
@@ -17,9 +17,6 @@ const views = [
 
 const buildViews = (url) => {
 	const docPromises = [];
-	let result = new Promise( resolve => {
-		return views;
-	});
 	const hiddenIdSet = new Set();
 	let remaining = views.length;
 	views.forEach((view) => {
