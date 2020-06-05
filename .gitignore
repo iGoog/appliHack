@@ -4,3 +4,4 @@
 /TraditionalTestsV2/node_modules/
 /TraditionalTestsV2/cypress/screenshots/
 /TraditionalTestsV2/cypress/snapshots/
+/TraditionalTestsV1/cypress/fixtures/tempView.json
