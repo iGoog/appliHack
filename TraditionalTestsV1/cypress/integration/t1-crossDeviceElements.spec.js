@@ -11,11 +11,14 @@ views.forEach((view) => {
 			cy.viewport(view.size[0], view.size[1]);
 			cy.visit(url);
 		});
-		// view.showIds.forEach((showId) => {
-		// 	it (`Displays #${CSS.escape(showId)} in ${browser} at ${sizeText}`, () => {
-		// 		cy.get('#'+CSS.escape(showId)).should('be.visible');
-		// 	});
-		// });
+		beforeEach(() => {
+			cy.viewport(view.size[0], view.size[1]);
+		})
+		view.showIds.forEach((showId) => {
+			it (`Displays #${CSS.escape(showId)} in ${browser} at ${sizeText}`, () => {
+				cy.get('#'+CSS.escape(showId)).should('be.visible');
+			});
+		});
 		view.hideIds.forEach((hideId) => {
 			it (`Hides #${CSS.escape(hideId)} in ${browser} at ${sizeText}`, () => {
 				cy.get('#'+CSS.escape(hideId)).should('be.hidden');

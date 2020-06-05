@@ -1,5 +1,6 @@
 const browser = `${Cypress.browser.name}_v${Cypress.browser.majorVersion}`;
-const views = [
+let views = require('../fixtures/tempView.json');
+if (!views || views.length === 0) views = [
 	{   size : [1200, 700],
 		showIds: [],
 		hideIds: [],
@@ -14,37 +15,6 @@ const views = [
 		browser
 	},
 ];
-//
-// const buildViews = (url) => {
-// 	const docPromises = [];
-// 	const hiddenIdSet = new Set();
-// 	let remaining = views.length;
-// 	views.forEach((view) => {
-// 		cy.viewport(view.size[0], view.size[1]);
-// 		cy.visit(url);
-// 		docPromises.push(cy.document().then(() => {
-// 			view.hideIds = Cypress.$(':hidden').toArray()
-// 				.filter(el => el.id != '' && 'script' != el.tagName.toLowerCase())
-// 				.map( el => {
-// 					hiddenIdSet.add(el.id);
-// 					return el.id;
-// 				} );
-// 			if (--remaining==0) {
-// 				views.forEach((view) => {
-// 					view.showIds = new Set(hiddenIdSet);
-// 					view.hideIds.forEach(id => view.showIds.delete(id));
-// 					view.showIds = Array.from(view.showIds);
-// 				});
-//
-// 				console.log(JSON.stringify(views));
-// 			}
-// 		}));
-//
-// 	});
-// 	return Promise.allSettled(docPromises).then(results => {
-// 		return views;
-// 	});
-// };
 
 const url = '/gridHackathonV1.html';
 
@@ -54,6 +24,7 @@ views.forEach((view) => {
 	const sizeText = `${view.size[0]},${view.size[1]}`;
 	describe(`Build all hide and display elements in ${browser} at ${sizeText}`, () => {
 		beforeEach(()=> {
+			// yuck! https://github.com/cypress-io/cypress/issues/1534
 			cy.viewport(view.size[0], view.size[1]);
 			cy.visit(url);
 		});
@@ -68,9 +39,12 @@ views.forEach((view) => {
 					} );
 				if (--remaining===0) {
 					views.forEach((v) => {
-						v.showIds = new Set(hiddenIdSet);
-						v.hideIds.forEach(id => v.showIds.delete(id));
-						v.showIds = Array.from(v.showIds);
+						if (v.showIds.length==0) {
+							const idsToShow = new Set(hiddenIdSet);
+							v.hideIds.forEach(id => idsToShow.delete(id));
+							v.showIds = Array.from(idsToShow);
+						}
+
 					});
 
 					console.log(JSON.stringify(views));
@@ -79,23 +53,30 @@ views.forEach((view) => {
 			});
 		});
 		it (`Hides ids in ${browser} at ${sizeText}`, () => {
-			for (let i=0; i < view.hideIds.length; i++) {
-				cy.get('#'+CSS.escape(view.hideIds[i])).should('be.hidden');
+			// for (let i=0; i < view.hideIds.length; i++) {
+			// 	cy.get('#'+CSS.escape(view.hideIds[i])).should('be.hidden');
+			// }
+			view.hideIds.forEach((hideId) => {
+				cy.get('#'+CSS.escape(hideId)).should('be.hidden');
+			});
+		});
+
+		it (`Shows ids in ${browser} at ${sizeText}`, () => {
+			const fixedShowIds = [];
+			let adjust = false;
+			view.showIds.forEach((showId) => {
+				if (Cypress.$('#'+CSS.escape(showId)+':visible').length===1) {
+					fixedShowIds.push(showId);
+					cy.get('#'+CSS.escape(showId)).should('be.visible');
+				} else {
+					adjust = true;
+				}
+			});
+			if (adjust) {
+				view.showIds = fixedShowIds;
+				console.log(JSON.stringify(views));
 			}
-			// view.hideIds.forEach((hideId) => {
-			// 	cy.get('#'+CSS.escape(hideId)).should('be.hidden');
-			// });
 		});
 	});
 });
 
-// it('builds views with visible and invisible ids', () => {
-// 	const url = '/gridHackathonV1.html';
-// 	buildViews(url).then(views=> {
-// 		views.forEach(view => {
-// 			expect(view.showIds).greaterThan(0);
-// 		})
-// 	});
-//
-//
-// })
