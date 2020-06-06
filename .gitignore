@@ -4,3 +4,29 @@
 /TraditionalTestsV2/node_modules/
 /TraditionalTestsV2/cypress/screenshots/
 /TraditionalTestsV2/cypress/snapshots/
+
+
+
+# dependencies
+/ModernTestsV1/node_modules
+
+# Cypress screenshots and videos
+/ModernTestsV1/cypress/videos
+/ModernTestsV1/cypress/screenshots
+
+# testing
+/ModernTestsV1/coverage
+
+# production
+/ModernTestsV1/build
+
+# misc
+/ModernTestsV1/.DS_Store
+/ModernTestsV1/.env.local
+/ModernTestsV1/.env.development.local
+/ModernTestsV1/.env.test.local
+/ModernTestsV1/.env.production.local
+
+/ModernTestsV1/npm-debug.log*
+/ModernTestsV1/yarn-debug.log*
+/ModernTestsV1/yarn-error.log*
