@@ -4,15 +4,18 @@ if (!views || views.length === 0) views = [
 	{   size : [1200, 700],
 		showIds: [],
 		hideIds: [],
-		browser
+		browser,
+		device: 'Laptop'
 	}, {   size : [768, 700],
 		showIds: [],
 		hideIds: [],
-		browser
+		browser,
+		device: 'Tablet'
 	}, {   size : [500,700], // these are different... ['iphone-x', 'landscape'],
 		showIds: [],
 		hideIds: [],
-		browser
+		browser,
+		device: 'Mobile'
 	},
 ];
 
@@ -53,9 +56,6 @@ views.forEach((view) => {
 			});
 		});
 		it (`Hides ids in ${browser} at ${sizeText}`, () => {
-			// for (let i=0; i < view.hideIds.length; i++) {
-			// 	cy.get('#'+CSS.escape(view.hideIds[i])).should('be.hidden');
-			// }
 			view.hideIds.forEach((hideId) => {
 				cy.get('#'+CSS.escape(hideId)).should('be.hidden');
 			});

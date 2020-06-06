@@ -1,4 +1,8 @@
 {
   "baseUrl": "https://demo.applitools.com",
-  "video": false
+  "video": false,
+  "firefoxGcInterval": {
+    "runMode": null,
+    "openMode": null
+  }
 }

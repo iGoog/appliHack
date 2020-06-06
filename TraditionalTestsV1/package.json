@@ -20,7 +20,10 @@
   },
   "scripts": {
     "cy:open": "cypress open",
-    "test": "cypress run --env failOnSnapshotDiff=false",
+    "test:chrome": "cypress run -s cypress/integration/t1-crossDeviceElements.spec.js -b chrome -r cypress/reporters/hackathonReporter.js",
+    "test:firefox": "cypress run -s cypress/integration/t1-crossDeviceElements.spec.js -b firefox -r cypress/reporters/hackathonReporter.js",
+    "test:edge": "cypress run -s cypress/integration/t1-crossDeviceElements.spec.js -b edge -r cypress/reporters/hackathonReporter.js",
+    "testsnap": "cypress run --env failOnSnapshotDiff=false",
     "clean": "rimraf cypress/snapshots cypress/screenshots",
     "lint": "eslint cypress --fix"
   },
