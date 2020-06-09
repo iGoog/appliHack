@@ -4,7 +4,7 @@
   "description": "This contains Applitools Cypress tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --browser chrome --spec 'cypress/integration/examples/ultraFastGrid.spec.js'",
+    "test": "npx cypress run --browser chrome --spec 'cypress/integration/t1-crossDeviceElements.spec.js'",
     "cypress:open": "cypress open"
   },
   "author": "",
