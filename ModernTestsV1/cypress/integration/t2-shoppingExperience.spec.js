@@ -1,7 +1,7 @@
  /// <reference types="@applitools/eyes-cypress" />
 
-// const url = 'https://demo.applitools.com/gridHackathonV1.html'
-const url = 'https://demo.applitools.com/gridHackathonV2.html'
+const url = 'https://demo.applitools.com/gridHackathonV1.html'
+// const url = 'https://demo.applitools.com/gridHackathonV2.html'
 
 describe('Display and hide appropriate elements in a variety of browsers and viewports', () => {
     it('Will display and hide appropriate elements', () => {

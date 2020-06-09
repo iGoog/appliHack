@@ -6,6 +6,7 @@
   "scripts": {
     "t1": "npx cypress run --browser chrome --spec 'cypress/integration/t1-crossDeviceElements.spec.js'",
     "t2": "npx cypress run --browser chrome --spec 'cypress/integration/t2-shoppingExperience.spec.js'",
+    "t3": "npx cypress run --browser chrome --spec 'cypress/integration/t3-productDetail.spec.js'",
     "cypress:open": "cypress open"
   },
   "author": "",
