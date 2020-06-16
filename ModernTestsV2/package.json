@@ -1,0 +1,18 @@
+{
+  "name": "tutorial-cypress",
+  "version": "1.0.0",
+  "description": "This contains Applitools Cypress tutorial",
+  "main": "index.js",
+  "scripts": {
+    "t1": "npx cypress run --browser chrome --spec 'cypress/integration/t1-crossDeviceElements.spec.js'",
+    "t2": "npx cypress run --browser chrome --spec 'cypress/integration/t2-shoppingExperience.spec.js'",
+    "t3": "npx cypress run --browser chrome --spec 'cypress/integration/t3-productDetail.spec.js'",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "latest",
+    "cypress": "latest"
+  }
+}

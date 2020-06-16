@@ -2,8 +2,8 @@
 /TraditionalTestsV1/cypress/screenshots/
 /TraditionalTestsV2/node_modules/
 /TraditionalTestsV2/cypress/screenshots/
-/TraditionalTestsV2/cypress/snapshots/
-
+#too long for git.
+/TraditionalTestsV2/cypress/snapshots/responsiveDesign.spec.js/__diff_output__/
 
 
 # dependencies
