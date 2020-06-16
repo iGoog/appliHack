@@ -21,11 +21,12 @@
   },
   "scripts": {
     "cy:open": "cypress open",
-    "test:chrome": "cypress run -s cypress/integration/responsiveDesign.spec.js -b chrome -r cypress/reporters/hackathonReporter.js",
-    "test:firefox": "cypress run -s cypress/integration/responsiveDesign.spec.js -b firefox -r cypress/reporters/hackathonReporter.js",
-    "test:edge": "cypress run -s cypress/integration/responsiveDesign.spec.js -b edge -r cypress/reporters/hackathonReporter.js",
-    "test": "run-s -c test:chrome test:edge test:firefox",
+    "test:chrome": "cypress run --headless -s cypress/integration/responsiveDesign.spec.js -b chrome -r cypress/reporters/hackathonReporter.js",
+    "test:firefox": "cypress run --headless -s cypress/integration/responsiveDesign.spec.js -b firefox -r cypress/reporters/hackathonReporter.js",
+    "test:edge": "cypress run --headless -s cypress/integration/responsiveDesign.spec.js -b edge -r cypress/reporters/hackathonReporter.js",
+    "test": "run-s -c clean-log test:chrome test:edge test:firefox",
     "clean": "rimraf cypress/snapshots cypress/screenshots",
+    "clean-log": "rimraf hackathonReportLog",
     "lint": "eslint cypress --fix"
   },
   "keywords": [],
