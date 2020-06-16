@@ -1,453 +1,70 @@
-Task: 1, Test Name: #NAV__colxlcollg__10 is visible, DOM Id: NAV__colxlcollg__10, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is visible, DOM Id: DIV__colxlcollg__32, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____51 is visible, DOM Id: LI____51, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is visible, DOM Id: ASIDE__collg__67, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A____201 is visible, DOM Id: A____201, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A____203 is visible, DOM Id: A____203, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is visible, DOM Id: DIV__colxlcollg__39, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is visible, DOM Id: DIV__colxlcollg__40, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is visible, DOM Id: UL__toptools__46, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #STRONG____50 is visible, DOM Id: STRONG____50, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_1 is visible, DOM Id: collapse_1, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_3 is visible, DOM Id: collapse_3, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_4 is visible, DOM Id: collapse_4, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is hidden, DOM Id: A__openclose__11, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #header_menu is hidden, DOM Id: header_menu, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #SPAN____53 is hidden, DOM Id: SPAN____53, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____58 is hidden, DOM Id: LI____58, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__innerbt__69 is hidden, DOM Id: DIV__innerbt__69, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____205 is hidden, DOM Id: LI____205, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____222 is hidden, DOM Id: UL____222, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____247 is hidden, DOM Id: UL____247, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____269 is hidden, DOM Id: UL____269, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____291 is hidden, DOM Id: UL____291, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____313 is hidden, DOM Id: UL____313, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____335 is hidden, DOM Id: UL____335, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____357 is hidden, DOM Id: UL____357, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____382 is hidden, DOM Id: UL____382, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____404 is hidden, DOM Id: UL____404, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #BR____442 is hidden, DOM Id: BR____442, Browser: chrome_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is visible, DOM Id: A__openclose__11, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____205 is visible, DOM Id: LI____205, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____222 is visible, DOM Id: UL____222, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____247 is visible, DOM Id: UL____247, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____269 is visible, DOM Id: UL____269, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____291 is visible, DOM Id: UL____291, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____313 is visible, DOM Id: UL____313, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____335 is visible, DOM Id: UL____335, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____357 is visible, DOM Id: UL____357, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____382 is visible, DOM Id: UL____382, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____404 is visible, DOM Id: UL____404, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is visible, DOM Id: DIV__colxlcollg__39, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is visible, DOM Id: DIV__colxlcollg__40, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is visible, DOM Id: UL__toptools__46, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #STRONG____50 is visible, DOM Id: STRONG____50, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____208 is visible, DOM Id: SPAN____208, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_1 is visible, DOM Id: collapse_1, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_3 is visible, DOM Id: collapse_3, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_4 is visible, DOM Id: collapse_4, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is hidden, DOM Id: NAV__colxlcollg__10, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is hidden, DOM Id: DIV__colxlcollg__32, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____51 is hidden, DOM Id: LI____51, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____58 is hidden, DOM Id: LI____58, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is hidden, DOM Id: ASIDE__collg__67, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A____201 is hidden, DOM Id: A____201, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A____203 is hidden, DOM Id: A____203, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____226 is hidden, DOM Id: SPAN____226, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____230 is hidden, DOM Id: SPAN____230, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____234 is hidden, DOM Id: SPAN____234, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____251 is hidden, DOM Id: SPAN____251, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____255 is hidden, DOM Id: SPAN____255, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____259 is hidden, DOM Id: SPAN____259, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____273 is hidden, DOM Id: SPAN____273, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____277 is hidden, DOM Id: SPAN____277, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____281 is hidden, DOM Id: SPAN____281, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____295 is hidden, DOM Id: SPAN____295, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____299 is hidden, DOM Id: SPAN____299, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____303 is hidden, DOM Id: SPAN____303, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____317 is hidden, DOM Id: SPAN____317, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____321 is hidden, DOM Id: SPAN____321, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____325 is hidden, DOM Id: SPAN____325, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____339 is hidden, DOM Id: SPAN____339, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____343 is hidden, DOM Id: SPAN____343, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____347 is hidden, DOM Id: SPAN____347, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____361 is hidden, DOM Id: SPAN____361, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____365 is hidden, DOM Id: SPAN____365, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____369 is hidden, DOM Id: SPAN____369, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____386 is hidden, DOM Id: SPAN____386, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____390 is hidden, DOM Id: SPAN____390, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____394 is hidden, DOM Id: SPAN____394, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____408 is hidden, DOM Id: SPAN____408, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____412 is hidden, DOM Id: SPAN____412, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____416 is hidden, DOM Id: SPAN____416, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #BR____442 is hidden, DOM Id: BR____442, Browser: chrome_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is visible, DOM Id: A__openclose__11, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #LI____58 is visible, DOM Id: LI____58, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #LI____205 is visible, DOM Id: LI____205, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____222 is visible, DOM Id: UL____222, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____247 is visible, DOM Id: UL____247, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____269 is visible, DOM Id: UL____269, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____291 is visible, DOM Id: UL____291, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____313 is visible, DOM Id: UL____313, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____335 is visible, DOM Id: UL____335, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____357 is visible, DOM Id: UL____357, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____382 is visible, DOM Id: UL____382, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____404 is visible, DOM Id: UL____404, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is hidden, DOM Id: NAV__colxlcollg__10, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is hidden, DOM Id: DIV__colxlcollg__32, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is hidden, DOM Id: DIV__colxlcollg__39, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is hidden, DOM Id: DIV__colxlcollg__40, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is hidden, DOM Id: UL__toptools__46, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #STRONG____50 is hidden, DOM Id: STRONG____50, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____60 is hidden, DOM Id: SPAN____60, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is hidden, DOM Id: ASIDE__collg__67, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #A____201 is hidden, DOM Id: A____201, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #A____203 is hidden, DOM Id: A____203, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____208 is hidden, DOM Id: SPAN____208, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____226 is hidden, DOM Id: SPAN____226, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____230 is hidden, DOM Id: SPAN____230, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____234 is hidden, DOM Id: SPAN____234, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____251 is hidden, DOM Id: SPAN____251, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____255 is hidden, DOM Id: SPAN____255, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____259 is hidden, DOM Id: SPAN____259, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____273 is hidden, DOM Id: SPAN____273, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____277 is hidden, DOM Id: SPAN____277, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____281 is hidden, DOM Id: SPAN____281, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____295 is hidden, DOM Id: SPAN____295, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____299 is hidden, DOM Id: SPAN____299, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____303 is hidden, DOM Id: SPAN____303, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____317 is hidden, DOM Id: SPAN____317, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____321 is hidden, DOM Id: SPAN____321, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____325 is hidden, DOM Id: SPAN____325, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____339 is hidden, DOM Id: SPAN____339, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____343 is hidden, DOM Id: SPAN____343, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____347 is hidden, DOM Id: SPAN____347, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____361 is hidden, DOM Id: SPAN____361, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____365 is hidden, DOM Id: SPAN____365, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____369 is hidden, DOM Id: SPAN____369, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____386 is hidden, DOM Id: SPAN____386, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____390 is hidden, DOM Id: SPAN____390, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____394 is hidden, DOM Id: SPAN____394, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____408 is hidden, DOM Id: SPAN____408, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____412 is hidden, DOM Id: SPAN____412, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____416 is hidden, DOM Id: SPAN____416, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_1 is hidden, DOM Id: collapse_1, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_3 is hidden, DOM Id: collapse_3, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_4 is hidden, DOM Id: collapse_4, Browser: chrome_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is visible, DOM Id: NAV__colxlcollg__10, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is visible, DOM Id: DIV__colxlcollg__32, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #STRONG____34 is visible, DOM Id: STRONG____34, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____51 is visible, DOM Id: LI____51, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is visible, DOM Id: ASIDE__collg__67, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A____201 is visible, DOM Id: A____201, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A____203 is visible, DOM Id: A____203, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is visible, DOM Id: DIV__colxlcollg__39, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is visible, DOM Id: DIV__colxlcollg__40, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is visible, DOM Id: UL__toptools__46, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #STRONG____50 is visible, DOM Id: STRONG____50, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_1 is visible, DOM Id: collapse_1, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_3 is visible, DOM Id: collapse_3, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_4 is visible, DOM Id: collapse_4, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is hidden, DOM Id: A__openclose__11, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #header_menu is hidden, DOM Id: header_menu, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #SPAN____53 is hidden, DOM Id: SPAN____53, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____58 is hidden, DOM Id: LI____58, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__innerbt__69 is hidden, DOM Id: DIV__innerbt__69, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____205 is hidden, DOM Id: LI____205, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____222 is hidden, DOM Id: UL____222, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____247 is hidden, DOM Id: UL____247, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____269 is hidden, DOM Id: UL____269, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____291 is hidden, DOM Id: UL____291, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____313 is hidden, DOM Id: UL____313, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____335 is hidden, DOM Id: UL____335, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____357 is hidden, DOM Id: UL____357, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____382 is hidden, DOM Id: UL____382, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____404 is hidden, DOM Id: UL____404, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #BR____442 is hidden, DOM Id: BR____442, Browser: firefox_v78, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is visible, DOM Id: A__openclose__11, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____205 is visible, DOM Id: LI____205, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____222 is visible, DOM Id: UL____222, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____247 is visible, DOM Id: UL____247, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____269 is visible, DOM Id: UL____269, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____291 is visible, DOM Id: UL____291, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____313 is visible, DOM Id: UL____313, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____335 is visible, DOM Id: UL____335, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____357 is visible, DOM Id: UL____357, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____382 is visible, DOM Id: UL____382, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____404 is visible, DOM Id: UL____404, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is visible, DOM Id: DIV__colxlcollg__39, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is visible, DOM Id: DIV__colxlcollg__40, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is visible, DOM Id: UL__toptools__46, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #STRONG____50 is visible, DOM Id: STRONG____50, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____208 is visible, DOM Id: SPAN____208, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_1 is visible, DOM Id: collapse_1, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_3 is visible, DOM Id: collapse_3, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_4 is visible, DOM Id: collapse_4, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is hidden, DOM Id: NAV__colxlcollg__10, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is hidden, DOM Id: DIV__colxlcollg__32, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____51 is hidden, DOM Id: LI____51, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____58 is hidden, DOM Id: LI____58, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is hidden, DOM Id: ASIDE__collg__67, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A____201 is hidden, DOM Id: A____201, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A____203 is hidden, DOM Id: A____203, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____226 is hidden, DOM Id: SPAN____226, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____230 is hidden, DOM Id: SPAN____230, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____234 is hidden, DOM Id: SPAN____234, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____251 is hidden, DOM Id: SPAN____251, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____255 is hidden, DOM Id: SPAN____255, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____259 is hidden, DOM Id: SPAN____259, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____273 is hidden, DOM Id: SPAN____273, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____277 is hidden, DOM Id: SPAN____277, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____281 is hidden, DOM Id: SPAN____281, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____295 is hidden, DOM Id: SPAN____295, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____299 is hidden, DOM Id: SPAN____299, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____303 is hidden, DOM Id: SPAN____303, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____317 is hidden, DOM Id: SPAN____317, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____321 is hidden, DOM Id: SPAN____321, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____325 is hidden, DOM Id: SPAN____325, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____339 is hidden, DOM Id: SPAN____339, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____343 is hidden, DOM Id: SPAN____343, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____347 is hidden, DOM Id: SPAN____347, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____361 is hidden, DOM Id: SPAN____361, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____365 is hidden, DOM Id: SPAN____365, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____369 is hidden, DOM Id: SPAN____369, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____386 is hidden, DOM Id: SPAN____386, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____390 is hidden, DOM Id: SPAN____390, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____394 is hidden, DOM Id: SPAN____394, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____408 is hidden, DOM Id: SPAN____408, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____412 is hidden, DOM Id: SPAN____412, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____416 is hidden, DOM Id: SPAN____416, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #BR____442 is hidden, DOM Id: BR____442, Browser: firefox_v78, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is visible, DOM Id: A__openclose__11, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #LI____58 is visible, DOM Id: LI____58, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #LI____205 is visible, DOM Id: LI____205, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____222 is visible, DOM Id: UL____222, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____247 is visible, DOM Id: UL____247, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____269 is visible, DOM Id: UL____269, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____291 is visible, DOM Id: UL____291, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____313 is visible, DOM Id: UL____313, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____335 is visible, DOM Id: UL____335, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____357 is visible, DOM Id: UL____357, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____382 is visible, DOM Id: UL____382, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____404 is visible, DOM Id: UL____404, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is hidden, DOM Id: NAV__colxlcollg__10, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is hidden, DOM Id: DIV__colxlcollg__32, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is hidden, DOM Id: DIV__colxlcollg__39, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is hidden, DOM Id: DIV__colxlcollg__40, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is hidden, DOM Id: UL__toptools__46, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #STRONG____50 is hidden, DOM Id: STRONG____50, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____60 is hidden, DOM Id: SPAN____60, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is hidden, DOM Id: ASIDE__collg__67, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #A____201 is hidden, DOM Id: A____201, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #A____203 is hidden, DOM Id: A____203, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____208 is hidden, DOM Id: SPAN____208, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____226 is hidden, DOM Id: SPAN____226, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____230 is hidden, DOM Id: SPAN____230, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____234 is hidden, DOM Id: SPAN____234, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____251 is hidden, DOM Id: SPAN____251, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____255 is hidden, DOM Id: SPAN____255, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____259 is hidden, DOM Id: SPAN____259, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____273 is hidden, DOM Id: SPAN____273, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____277 is hidden, DOM Id: SPAN____277, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____281 is hidden, DOM Id: SPAN____281, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____295 is hidden, DOM Id: SPAN____295, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____299 is hidden, DOM Id: SPAN____299, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____303 is hidden, DOM Id: SPAN____303, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____317 is hidden, DOM Id: SPAN____317, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____321 is hidden, DOM Id: SPAN____321, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____325 is hidden, DOM Id: SPAN____325, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____339 is hidden, DOM Id: SPAN____339, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____343 is hidden, DOM Id: SPAN____343, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____347 is hidden, DOM Id: SPAN____347, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____361 is hidden, DOM Id: SPAN____361, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____365 is hidden, DOM Id: SPAN____365, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____369 is hidden, DOM Id: SPAN____369, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____386 is hidden, DOM Id: SPAN____386, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____390 is hidden, DOM Id: SPAN____390, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____394 is hidden, DOM Id: SPAN____394, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____408 is hidden, DOM Id: SPAN____408, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____412 is hidden, DOM Id: SPAN____412, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____416 is hidden, DOM Id: SPAN____416, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_1 is hidden, DOM Id: collapse_1, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_3 is hidden, DOM Id: collapse_3, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_4 is hidden, DOM Id: collapse_4, Browser: firefox_v78, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is visible, DOM Id: NAV__colxlcollg__10, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is visible, DOM Id: DIV__colxlcollg__32, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____51 is visible, DOM Id: LI____51, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is visible, DOM Id: ASIDE__collg__67, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A____201 is visible, DOM Id: A____201, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A____203 is visible, DOM Id: A____203, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is visible, DOM Id: DIV__colxlcollg__39, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is visible, DOM Id: DIV__colxlcollg__40, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is visible, DOM Id: UL__toptools__46, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #STRONG____50 is visible, DOM Id: STRONG____50, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_1 is visible, DOM Id: collapse_1, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_3 is visible, DOM Id: collapse_3, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #collapse_4 is visible, DOM Id: collapse_4, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is hidden, DOM Id: A__openclose__11, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #header_menu is hidden, DOM Id: header_menu, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #SPAN____53 is hidden, DOM Id: SPAN____53, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____58 is hidden, DOM Id: LI____58, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #DIV__innerbt__69 is hidden, DOM Id: DIV__innerbt__69, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #LI____205 is hidden, DOM Id: LI____205, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____222 is hidden, DOM Id: UL____222, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____247 is hidden, DOM Id: UL____247, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____269 is hidden, DOM Id: UL____269, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____291 is hidden, DOM Id: UL____291, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____313 is hidden, DOM Id: UL____313, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____335 is hidden, DOM Id: UL____335, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____357 is hidden, DOM Id: UL____357, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____382 is hidden, DOM Id: UL____382, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #UL____404 is hidden, DOM Id: UL____404, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #BR____442 is hidden, DOM Id: BR____442, Browser: edge_v83, Viewport: 1200,700, Device: Laptop, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is visible, DOM Id: A__openclose__11, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____205 is visible, DOM Id: LI____205, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____222 is visible, DOM Id: UL____222, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____247 is visible, DOM Id: UL____247, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____269 is visible, DOM Id: UL____269, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____291 is visible, DOM Id: UL____291, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____313 is visible, DOM Id: UL____313, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____335 is visible, DOM Id: UL____335, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____357 is visible, DOM Id: UL____357, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____382 is visible, DOM Id: UL____382, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL____404 is visible, DOM Id: UL____404, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is visible, DOM Id: DIV__colxlcollg__39, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is visible, DOM Id: DIV__colxlcollg__40, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is visible, DOM Id: UL__toptools__46, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #STRONG____50 is visible, DOM Id: STRONG____50, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____208 is visible, DOM Id: SPAN____208, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_1 is visible, DOM Id: collapse_1, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_3 is visible, DOM Id: collapse_3, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #collapse_4 is visible, DOM Id: collapse_4, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is hidden, DOM Id: NAV__colxlcollg__10, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is hidden, DOM Id: DIV__colxlcollg__32, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____51 is hidden, DOM Id: LI____51, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #LI____58 is hidden, DOM Id: LI____58, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is hidden, DOM Id: ASIDE__collg__67, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A____201 is hidden, DOM Id: A____201, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A____203 is hidden, DOM Id: A____203, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____226 is hidden, DOM Id: SPAN____226, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____230 is hidden, DOM Id: SPAN____230, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____234 is hidden, DOM Id: SPAN____234, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____251 is hidden, DOM Id: SPAN____251, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____255 is hidden, DOM Id: SPAN____255, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____259 is hidden, DOM Id: SPAN____259, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____273 is hidden, DOM Id: SPAN____273, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____277 is hidden, DOM Id: SPAN____277, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____281 is hidden, DOM Id: SPAN____281, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____295 is hidden, DOM Id: SPAN____295, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____299 is hidden, DOM Id: SPAN____299, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____303 is hidden, DOM Id: SPAN____303, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____317 is hidden, DOM Id: SPAN____317, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____321 is hidden, DOM Id: SPAN____321, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____325 is hidden, DOM Id: SPAN____325, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____339 is hidden, DOM Id: SPAN____339, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____343 is hidden, DOM Id: SPAN____343, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____347 is hidden, DOM Id: SPAN____347, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____361 is hidden, DOM Id: SPAN____361, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____365 is hidden, DOM Id: SPAN____365, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____369 is hidden, DOM Id: SPAN____369, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____386 is hidden, DOM Id: SPAN____386, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____390 is hidden, DOM Id: SPAN____390, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____394 is hidden, DOM Id: SPAN____394, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____408 is hidden, DOM Id: SPAN____408, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____412 is hidden, DOM Id: SPAN____412, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #SPAN____416 is hidden, DOM Id: SPAN____416, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #BR____442 is hidden, DOM Id: BR____442, Browser: edge_v83, Viewport: 768,700, Device: Tablet, Status: Pass
-Task: 1, Test Name: #A__openclose__11 is visible, DOM Id: A__openclose__11, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #LI____58 is visible, DOM Id: LI____58, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #LI____205 is visible, DOM Id: LI____205, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____222 is visible, DOM Id: UL____222, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____247 is visible, DOM Id: UL____247, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____269 is visible, DOM Id: UL____269, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____291 is visible, DOM Id: UL____291, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____313 is visible, DOM Id: UL____313, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____335 is visible, DOM Id: UL____335, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____357 is visible, DOM Id: UL____357, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____382 is visible, DOM Id: UL____382, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL____404 is visible, DOM Id: UL____404, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__layer__2 is hidden, DOM Id: DIV__layer__2, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #NAV__colxlcollg__10 is hidden, DOM Id: NAV__colxlcollg__10, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__32 is hidden, DOM Id: DIV__colxlcollg__32, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #STRONG____34 is hidden, DOM Id: STRONG____34, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__39 is hidden, DOM Id: DIV__colxlcollg__39, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__colxlcollg__40 is hidden, DOM Id: DIV__colxlcollg__40, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #UL__toptools__46 is hidden, DOM Id: UL__toptools__46, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #STRONG____50 is hidden, DOM Id: STRONG____50, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____57 is hidden, DOM Id: SPAN____57, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____60 is hidden, DOM Id: SPAN____60, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #DIV__searchmobw__61 is hidden, DOM Id: DIV__searchmobw__61, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #ASIDE__collg__67 is hidden, DOM Id: ASIDE__collg__67, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #stick_here is hidden, DOM Id: stick_here, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #A____201 is hidden, DOM Id: A____201, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #A____203 is hidden, DOM Id: A____203, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____208 is hidden, DOM Id: SPAN____208, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____226 is hidden, DOM Id: SPAN____226, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____230 is hidden, DOM Id: SPAN____230, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____234 is hidden, DOM Id: SPAN____234, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____251 is hidden, DOM Id: SPAN____251, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____255 is hidden, DOM Id: SPAN____255, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____259 is hidden, DOM Id: SPAN____259, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____273 is hidden, DOM Id: SPAN____273, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____277 is hidden, DOM Id: SPAN____277, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____281 is hidden, DOM Id: SPAN____281, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____295 is hidden, DOM Id: SPAN____295, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____299 is hidden, DOM Id: SPAN____299, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____303 is hidden, DOM Id: SPAN____303, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____317 is hidden, DOM Id: SPAN____317, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____321 is hidden, DOM Id: SPAN____321, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____325 is hidden, DOM Id: SPAN____325, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____339 is hidden, DOM Id: SPAN____339, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____343 is hidden, DOM Id: SPAN____343, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____347 is hidden, DOM Id: SPAN____347, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____361 is hidden, DOM Id: SPAN____361, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____365 is hidden, DOM Id: SPAN____365, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____369 is hidden, DOM Id: SPAN____369, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____386 is hidden, DOM Id: SPAN____386, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____390 is hidden, DOM Id: SPAN____390, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____394 is hidden, DOM Id: SPAN____394, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____408 is hidden, DOM Id: SPAN____408, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____412 is hidden, DOM Id: SPAN____412, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #SPAN____416 is hidden, DOM Id: SPAN____416, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_1 is hidden, DOM Id: collapse_1, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_3 is hidden, DOM Id: collapse_3, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
-Task: 1, Test Name: #collapse_4 is hidden, DOM Id: collapse_4, Browser: edge_v83, Viewport: 500,700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Display heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hide filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hide itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hide searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hide cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hide quickLinks correctly in view, DOM selector: '#collapse_1', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Display heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hide filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hide itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hide filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hide itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on page, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass

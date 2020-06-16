@@ -16,14 +16,15 @@
     "eslint-plugin-cypress": "^2.11.1",
     "eslint-plugin-json-format": "^2.0.1",
     "eslint-plugin-mocha": "^7.0.0",
-    "eslint-plugin-node": "^11.1.0"
+    "eslint-plugin-node": "^11.1.0",
+    "npm-run-all": "^4.1.5"
   },
   "scripts": {
     "cy:open": "cypress open",
-    "test:chrome": "cypress run -s cypress/integration/t1-crossDeviceElements.spec.js -b chrome -r cypress/reporters/hackathonReporter.js",
-    "test:firefox": "cypress run -s cypress/integration/t1-crossDeviceElements.spec.js -b firefox -r cypress/reporters/hackathonReporter.js",
-    "test:edge": "cypress run -s cypress/integration/t1-crossDeviceElements.spec.js -b edge -r cypress/reporters/hackathonReporter.js",
-    "testsnap": "cypress run --env failOnSnapshotDiff=false",
+    "test:chrome": "cypress run -s cypress/integration/responsiveDesign.spec.js -b chrome -r cypress/reporters/hackathonReporter.js",
+    "test:firefox": "cypress run -s cypress/integration/responsiveDesign.spec.js -b firefox -r cypress/reporters/hackathonReporter.js",
+    "test:edge": "cypress run -s cypress/integration/responsiveDesign.spec.js -b edge -r cypress/reporters/hackathonReporter.js",
+    "test": "run-s test:chrome test:edge test:firefox",
     "clean": "rimraf cypress/snapshots cypress/screenshots",
     "lint": "eslint cypress --fix"
   },
