@@ -6,7 +6,7 @@ The modern tests with Applitools make it incredibly easy to discover and test ch
 
 After working around some [issues](https://github.com/cypress-io/cypress/issues/1534#issuecomment-417652182), "traditional" tests with Cypress are able to replicate many of the cross browser tests well. The website changes were not built with this kind of testing in mind and lack [non-brittle [data.test] attributes](https://docs.cypress.io/guides/references/best-practices.html#Selecting-Elements) to programatically work with, but I was able to make the appropriate tests work with CSS selectors. Tests would work well in testing focused development, though they did not make it simple to discover new issues. I set up a bit of a messy [page object](https://martinfowler.com/bliki/PageObject.html) for testing in this scenario, but a team could also benefit from building out [app actions](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/) as part of the development process.
 
-While testing displayed elements worked well, the tests completely fell apart for testing render and layout issues in the "Product Detail" tests. You can see some basic usage of the [cypress-image-snapshot](https://github.com/palmerhq/cypress-image-snapshot) package as an attempt to address these tests. There was some unusual issues related to the [cy.screenshot()](https://github.com/cypress-io/cypress/issues/2034). Unfortunately, even after working around these issues the screenshots were both slow and flaky when capturing based elements chosen with selectors. I also attempted to do [manual clipping on the visualFail branch](https://github.com/iGoog/appliHack/blob/visualFail/TraditionalTestsV2/cypress/pages/productCatalog.js) of this project. While I think it would be possible to improve the screenshot comparison functionality in these projects, Applitools demonstrates its strength in not only getting the comparisons right, but making it easy to work with.
+While testing displayed elements worked well, the tests completely fell apart for testing render and layout issues in the "Product Detail" tests. You can see some basic usage of the [cypress-image-snapshot](https://github.com/palmerhq/cypress-image-snapshot) package as an attempt to address these tests. There was an unusual issue related to the [cy.screenshot()](https://github.com/cypress-io/cypress/issues/2034). Unfortunately, even after working around this, the screenshots were both slow and flaky when capturing based elements chosen with selectors. I also attempted to do [manual clipping on the visualFail branch](https://github.com/iGoog/appliHack/blob/visualFail/TraditionalTestsV2/cypress/pages/productCatalog.js) of this project. While I think it would be possible to improve the screenshot comparison functionality in these projects, Applitools demonstrates its strength in not only getting the comparisons right, but making it easy to work with.
 
 ## Instructions
 
@@ -24,7 +24,7 @@ While testing displayed elements worked well, the tests completely fell apart fo
 			#linux/mac/bash
 			export APPLITOOLS_API_KEY=<your_key>
 			```
-		* Clone project, install dependencies, & test.
+		* Install dependencies, & test.
 			```bash
 			cd ModernTestsV2
 			npm install
@@ -40,7 +40,7 @@ While testing displayed elements worked well, the tests completely fell apart fo
 			```
 		* Review results on [Applitools website](https://applitools.com/).
 	2. Traditional Tests with [Cypress](https://www.cypress.io/) (TraditionalTestsV1 or TraditionalTestsV2)
-		* Clone project, install dependencies.
+		* Install dependencies.
 			```bash
 			cd TraditionalTestsV2
 			npm install
