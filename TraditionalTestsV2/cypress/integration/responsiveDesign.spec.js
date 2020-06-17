@@ -9,7 +9,7 @@ Object.entries(testEnvironments).forEach(([,view]) => {
 	const page = productCatalogPage(view, url);
 	const viewDescription = `Browser: ${view.browser}, Viewport: ${view.width} x ${view.height}, Device: ${view.device}`;
 	let task = 1;
-	describe(`Cross-Device Elements Tests in ${viewDescription}`, () => {
+	describe.skip('Cross-Device Elements', () => {
 		before(page.before);
 		beforeEach(page.beforeEach);
 		Object.entries(page.display).forEach(([name, test]) => {
@@ -26,7 +26,7 @@ Object.entries(testEnvironments).forEach(([,view]) => {
 	});
 
 	task = 2;
-	describe( `Shopping Experience Tests in ${view.browser} at ${view.width}x${view.height}`, () => {
+	describe.skip( 'Shopping Experience', () => {
 		before(page.filter.before);
 		beforeEach(page.filter.beforeEach);
 		const test = page.filter.gridItems;
@@ -36,13 +36,13 @@ Object.entries(testEnvironments).forEach(([,view]) => {
 	});
 
 	task = 3;
-	describe( `Product Details Tests in ${view.browser} at ${view.width}x${view.height}`, () => {
+	describe( 'Product Details', () => {
 		before(page.product.before);
 		beforeEach(page.product.beforeEach);
 		Object.entries(page.product).forEach(([key, test]) => {
-			if (key.startsWith('before')) return;
-			it( `Task: ${task}, ` + 
-				`Test Name: ${test.name}, ${viewDescription}`, test.test);
+			if ( key=='before' || key=='beforeEach' ) return;
+			else if ( key=='fullPage' ) it.skip( `Task: ${task}, Test Name: ${test.name}, ${viewDescription}`, test.test);
+			else it( `Task: ${task}, Test Name: ${test.name}, ${viewDescription}`, test.test);
 		});
 	});
 });

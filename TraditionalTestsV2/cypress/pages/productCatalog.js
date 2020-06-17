@@ -77,45 +77,66 @@ const gridHackathonPage = (env, url) => {
 	};
 	tests.product.beforeEach = tests.beforeEach;
 
-	// Leaving this code section commented out as an example of 
-	// a failed approach to screenshotting selected DOM elements.
-	// I experienced both Cypress bugs and shortcomings trying this approach.
-	// An alternative approach for this visual regression testing
-	// is to screenshot the whole page, then to calculate clippings of
-	// problem areas when using Cypress. Applitools replicates the
-	// same kind of workflow, except it actually finds the problem areas
-	// for you and the AI is dramatically better at finding actual
-	// differences over the pixel comparison
-	/* 
-	const productSelector = {
-		topTools: 'ul.top_tools',
-		shoeImage: '#shoe_img',
+	const productDomSelector = {
+		// topTools: 'ul.top_tools', // this selector does a poor job of screenshots.
+		// shoeImage: '#shoe_img', // this selector keeps moving vertically
 		ratingCount: '.rating',
 		sizeSelectDefault: '.prod_options div.nice-select span.current',
 		newPrice: '#new_price',
 		sku: 'div.prod_info p small',
-		// addToCardButton: 'div.btn_add_to_cart'
+		// addToCardButton: 'div.btn_add_to_cart'  // the issue with this one is placement
 	};
 
 	// ran into weird negative index out of range issue with chrome 1200 width viewport seemingly related issue to this:
 	// https://github.com/cypress-io/cypress/issues/2034
-	// cy.get(productSelector.shoeImage).sceenshot() or cy.get(productSelector.shoeImage).matchImageSnapshot()
+	// cy.get(productDomSelector.shoeImage).sceenshot() or cy.get(productDomSelector.shoeImage).matchImageSnapshot()
 	// working around this by passing clip information directly.
 	// unfortunately, this still does a poor job of selecting the correct elements.
+	// some elements seem to also sort of "move" where they are rendered on the page.
+	// ie: if I run in windowed on an unchanged page, sometimes the captured element has an height offset from the iniital run
+	// this seems avoidable by using headless runs.
 	const clipWorkaround = ($el) => {
 		const rect =  $el[0].getBoundingClientRect();
-		const extraPad = 10;
+		const extraPad = 2;
 		const opts = {clip: {x : rect.x-extraPad, y: rect.y-extraPad, width: rect.width + 2*extraPad, height: rect.height + 2*extraPad} };
-		console.log(`id: ${$el[0].id}; scrolly: ${window.scrollY}; opts ${JSON.stringify(opts)}; rect: ${JSON.stringify(rect)} `);
+		// console.log(`id: ${$el[0].id}; scrolly: ${window.scrollY}; opts ${JSON.stringify(opts)}; rect: ${JSON.stringify(rect)} `);
 		cy.matchImageSnapshot(opts);
 	};
 
 
-	Object.entries(productSelector).forEach( ([name, selector]) => {
+	Object.entries(productDomSelector).forEach( ([name, selector]) => {
 		tests.product[name] = testFactory(`Visual regression test on ${name}`, () => cy.get(selector).then(clipWorkaround), selector );
 	});
 
-	*/
+
+	
+
+	// manual clipping can be attained by using fullpage screenshot 
+	// then analyzing in a graphical editor. I used a rectangle select in GIMP
+	// and then copied the position and size information.
+	// unfotunately, even these seem to suffer from offset issues.
+	// arguably, most of these issues could be accurately tested 
+	// if the visual comparsion tool was able to account for these differences.
+	const manualClipping = {};
+	manualClipping[device.LAPTOP] = {
+		addToCardButton: { clip: { x: 1002, y: 742, width: 192, height: 72 } },
+		topTools: { clip: { x: 1052, y: 74, width: 142, height: 48 } },
+		shoeImage: { clip: { x: 222, y: 222, width: 748, height: 358 } },
+
+	};
+	manualClipping[device.TABLET] = {
+		addToCardButton: { clip: { x: 609, y: 866, width: 146, height: 73 } },
+		topTools: { clip: { x: 627, y: 54, width: 131, height: 51 } },
+		shoeImage: { clip: { x: 18, y: 203, width: 729, height: 346 } },
+	};
+	manualClipping[device.MOBILE] = {
+		addToCardButton: { clip: { x: 351, y: 864, width: 135, height: 60 } },
+		topTools: { clip: { x: 360, y: 54, width: 131, height: 42 } },
+		shoeImage: { clip: { x: 29, y: 243, width: 451, height: 263 } },
+	};
+	Object.entries(manualClipping[env.device]).forEach( ([name, opts]) => {
+		tests.product[name] = testFactory(`Manually clipped visual test on ${name}`, () => cy.matchImageSnapshot(opts), JSON.stringify(opts.clip) );
+	});
 
 
 	tests.product.fullPage =  testFactory('Visual regression test on page', () => cy.matchImageSnapshot({capture: 'fullPage'}), 'fullPage capture' );

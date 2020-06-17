@@ -25,7 +25,7 @@
     "test:firefox": "cypress run --headless -s cypress/integration/responsiveDesign.spec.js -b firefox -r cypress/reporters/hackathonReporter.js",
     "test:edge": "cypress run --headless -s cypress/integration/responsiveDesign.spec.js -b edge -r cypress/reporters/hackathonReporter.js",
     "test": "run-s -c clean-log test:chrome test:edge test:firefox",
-    "clean": "rimraf cypress/snapshots cypress/screenshots",
+    "clean": "rimraf cypress/snapshots cypress/screenshots hackathonReportLog",
     "clean-log": "rimraf hackathonReportLog",
     "lint": "eslint cypress --fix"
   },

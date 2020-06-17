@@ -1,70 +1,63 @@
-Task: 1, Test Name: Display heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Hide filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 1, Test Name: Hide itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
-Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Hide searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Hide cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Hide quickLinks correctly in view, DOM selector: '#collapse_1', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
-Task: 1, Test Name: Display heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Hide filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 1, Test Name: Hide itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: edge, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: edge, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Display heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 1, Test Name: Hide filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 1, Test Name: Hide itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Fail
-Task: 1, Test Name: Display filters correctly in view, DOM selector: 'div.toolbox a.open_filters', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display itemActionIcons correctly in view, DOM selector: '#product_grid .grid_item li a.tooltip-1', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Display searchInput correctly in view, DOM selector: 'div.main_nav div.custom-search-input', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display cartCount correctly in view, DOM selector: 'div.main_nav ul.top_tools a.cart_bt strong', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Display quickLinks correctly in view, DOM selector: '#collapse_1', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
-Task: 1, Test Name: Hide heart correctly in view, DOM selector: '.top_tools a.wishlist', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Hide viewGrid correctly in view, DOM selector: 'div.toolbox i.ti-view-grid', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 1, Test Name: Hide viewList correctly in view, DOM selector: 'div.toolbox i.ti-view-list', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 2, Test Name: Black filter should show only two items, DOM selector: '#product_grid .grid_item', Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
-Task: 3, Test Name: Visual regression test on page, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Fail
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Fail
+Task: 3, Test Name: Visual regression test on ratingCount, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Visual regression test on sizeSelectDefault, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Visual regression test on newPrice, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Visual regression test on sku, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on addToCardButton, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on topTools, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail
+Task: 3, Test Name: Manually clipped visual test on shoeImage, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Fail

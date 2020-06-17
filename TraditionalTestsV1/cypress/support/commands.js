@@ -10,6 +10,6 @@ addMatchImageSnapshotCommand({
 	//failureThreshold: 0.00,
 	//failureThresholdType: 'percent',
 	customDiffConfig: { threshold: 0.1 },
-	capture: 'viewport',
+	capture: 'fullPage',
 	blur: 10
 });
