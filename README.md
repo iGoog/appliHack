@@ -1,6 +1,6 @@
 # Applitools Cross Browser Testing [Hackathon](https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions/)
 
-This project has code for end-to-end testing of an [example website, AppliFashion,](https://demo.applitools.com/gridHackathonV1.html) that supports a variety of browsers and devices through a responsive design and is [undergoing a change.](https://demo.applitools.com/gridHackathonV2.html) 
+This project has code for end-to-end testing of an [example website, AppliFashion,](https://demo.applitools.com/gridHackathonV1.html) that supports a variety of browsers and devices through a responsive design while it [undergoes a change.](https://demo.applitools.com/gridHackathonV2.html) 
 
 The modern tests with Applitools make it incredibly easy to discover and test changes across browsers and viewports. One tests with the Applitools AI by using its "eyes". The eyes "open", then "check" a portion or portions of the page, and then "close". This information is processed by the visual AI online, which spots differences. The Applitools website makes it easy to track and report on these differences by letting you select marked areas and even post issues to github.
 
